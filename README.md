@@ -1,0 +1,2 @@
+# IdeaCoin
+ERC20
