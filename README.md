@@ -31,7 +31,7 @@ Contract: 0x10ee868321ab0fc2cb23de0e43b440c964c1ffdd
 
 3 boxes appear. This is the information to use.
 
-- 1. Token Contract:  
+- 1. Token Contract:  0x10ee868321ab0fc2cb23de0e43b440c964c1ffdd
 - 2. Token Symbol: IDX
 - 3. Number of Decimals: 18
 
