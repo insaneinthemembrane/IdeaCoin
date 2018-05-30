@@ -36,6 +36,9 @@ Contract: 0x10ee868321ab0fc2cb23de0e43b440c964c1ffdd
 - 3. Number of Decimals: 18
 
 
+Then in the main area of the wallet, which will be defaulted to ETH, click the dropdown menu and click on "IDX".
+
+
 
 See also: [Adding an ERC20 token to your myetherwallet.com](https://github.com/insaneinthemembrane/ERC20-Adding-Token)
 
